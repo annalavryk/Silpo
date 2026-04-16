@@ -1,0 +1,6 @@
+12.03
+Pending
+Card
+Milk 2.5 2
+Bread 1.5 1
+Apple 0.8 3
